@@ -1,30 +1,26 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a project where I created a flappy bird style game. You play just as you would the normal game, jumping through the pipes.
 
-{Provide a description the game that you wrote. Describe how to play your game.}
+I wrote this to learn more about pygame and how to use it.
 
-{Describe your purpose for writing this software.}
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/SJHw4W00Mts)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+To develop this program, i used pygame and pygame mixer. I was able to learn how to add sound effects using pygame mixer. Learning pygame wasn't too steep of a learning code since it is still using python, but it was definitely difficult figuring out all the quirks.
 
-{Describe the programming language that you used and any libraries.}
+Luckily, i was able to find a file of the flappy bird .pngs used in the real game, so I was able to give the game an 'authentic' flappy bird experience. I also found the same sound effects used, although I could only find the flap and score sound. 
+
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Open Source](https://opensource.com/article/20/9/add-sound-python-game)
+* [Real Python](https://opensource.com/article/20/9/add-sound-python-game)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Add more sound effects
+* Add animation to the bird (flapping)
+* Add a pause menu
